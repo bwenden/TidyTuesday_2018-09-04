@@ -15,6 +15,6 @@ First, I tried to reproduce the example plot to visualize average calories per i
 ### Average composition for the menu items in each restaurant
 I wanted to visualize the average composition of entrees in each restaurant for elements that are more unhealthy (calories, total fat, carbs) and better elements (fiber, vitamins, ...). I am learning how to used gganimate so this was a good way to try it.
 
-
+![Average item composition](./tt_fastfood.gif)
 
 So for now, I would recommend to avoid Burger King, Sonic and Mcdonalds...
