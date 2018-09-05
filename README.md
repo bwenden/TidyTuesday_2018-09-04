@@ -9,7 +9,7 @@ Inspiration: https://www.franchiseopportunities.com/blog/general-franchise-infor
 ### Average calories per item
 First, I tried to reproduce the example plot to visualize average calories per item for each restaurant.
 
-![Average calories per item](./plot1.png)
+
 
 
 ### Average composition for the menu items in each restaurant
